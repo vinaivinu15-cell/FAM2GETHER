@@ -1,0 +1,11 @@
+{
+  "name": "fam2gether",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "cd frontend && npm run build",
+    "dev": "cd frontend && npm start"
+  },
+  "dependencies": {
+    "react-scripts": "5.0.1"
+  }
+}
